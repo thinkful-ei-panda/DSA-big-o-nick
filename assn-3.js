@@ -10,6 +10,6 @@ function areYouHere(arr1, arr2) {
 }
 
 /* Big O = Polynomial O(n^2)
-Explaination: The algorithm contains a nested for loop meaning that the
+Explanation: The algorithm contains a nested for loop meaning that the
 size of the inputs will scale the number of actions exponentially
 resulting in n^2.*/

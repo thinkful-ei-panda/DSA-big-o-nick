@@ -6,5 +6,5 @@ function doubleArrayValues(array) {
 }
 
 /* Big O = Linear O(n)
-Explaination: This algorithm will need to touch each element of the array
+Explanation: This algorithm will need to touch each element of the array
 and therefore scales directly with the size of the input. */

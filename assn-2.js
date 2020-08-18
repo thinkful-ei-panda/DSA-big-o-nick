@@ -7,5 +7,5 @@ function isEven(value) {
 }
 
 // Big O = Constant O(1)
-// Explaination: this algorithm only requires a finite number 
+// Explanation: this algorithm only requires a finite number 
 // of actions regardless of the input and therefore runs at constant time.
