@@ -13,3 +13,7 @@ Big O =
 Explanation:  
 */
 
+## Questions to check answers for
+
+Q10 - algorithm finds whether numbers are prime or not but need to double check time scale.
+
