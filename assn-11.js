@@ -27,5 +27,8 @@ solveHanoi(5, 'A', 'C', 'B');
 // required moves for 4 disks = 15
 // required moves for 5 disks = 31
 
+// if given 5 disks - after 7 recursive calls you will have:
+// disks 1, 2 and 3 on rod C and disks 4 and 5 on rod A
 
+// runtime = O(2^n)
 
