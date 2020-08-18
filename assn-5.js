@@ -6,5 +6,6 @@ function naiveSearch(array, item) {
   }
 }
 
-/* Big O =
-Explanation:   */
+/* Big O = Linear O(n)
+Explanation: This algorithm would be linear because in the worst case scenario
+it would need to check each item in the input array. */
