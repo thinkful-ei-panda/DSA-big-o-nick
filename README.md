@@ -2,7 +2,7 @@
 
 ## Question Templates
 
-### Q2 - 9 & 13 
+### Q2 - 9 & 13 & 14
 /* Big O =
 Explanation:  */
 
